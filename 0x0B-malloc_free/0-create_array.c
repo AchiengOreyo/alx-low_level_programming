@@ -6,10 +6,9 @@
  *@size:size of array
  *@c:char for initialization
  *
- *Return - a pointer to the char if malloc fails
+ *Return: pointer to the array of char if malloc fails
  */
 char *create_array(unsigned int size, char c)
-
 {
 unsigned int k;
 char *b;
