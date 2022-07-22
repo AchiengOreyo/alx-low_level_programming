@@ -1,3 +1,4 @@
 Task 0-converts a binary number to an unsigned int.
 Task 1- prints the binary representation of a number.
 Task 2 - returns the value of a bit at a given index
+Task 3 - sets the value of a bit to 1 at a given index.
